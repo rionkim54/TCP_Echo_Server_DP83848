@@ -7,6 +7,9 @@ stm보드를 에코서버로 제작하여 클라이언트로부터 오는 데이
 
 
 
+https://zerowincoding.tistory.com/entry/STM32-H743-LwIPTCPEchoServer
+
 참조사이트
 https://www.waveshare.com/wiki/OpenH743I-C#Examples_24._ETH
+
 
