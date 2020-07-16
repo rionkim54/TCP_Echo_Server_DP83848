@@ -1,0 +1,4 @@
+---- 1.110 Matches (3 in 2 files) ----
+Arm_dct4_init_f32.c (drivers\cmsis\dsp\source\transformfunctions):  1.110981028631393700f, 1.110662123181539900f, 1.110343176895814500f,
+Arm_dct4_init_f32.c (drivers\cmsis\dsp\source\transformfunctions):    1.110024189785944900f,
+Arm_signal_converge_data.c (drivers\cmsis\dsp\examples\arm\arm_signal_converge_example):-0.350885,	0.892098,	1.578299,	-1.108174,	-0.025931,	-1.110628,	0.750834,	0.500167,	
